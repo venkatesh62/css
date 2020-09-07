@@ -1,0 +1,32 @@
+header{
+	background:#9c9c9c ;
+	font-variant: small-caps;
+}
+
+/*heading should be in capital letters*/
+
+h1{
+	font-color:#c8bdc6;
+	font-variant-caps: all-small-caps;
+	text-align: center;
+	color: #ffffff;
+}
+
+h2{
+	color: #131075;
+	font-variant-caps: all-small-caps;
+}
+
+section{
+	background-color: #aba8ab;
+
+}
+
+a{
+	background-color: #c7c7c7;
+	color:#000000;
+	
+}
+img{
+	display: none;
+}
