@@ -1,1 +1,0 @@
-Hello. This course relate to CSS.
